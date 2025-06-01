@@ -73,8 +73,8 @@ function Profile(){
       </h1>
     </header>
   <div>
-      <p>Name: Francine Mae G. Ginares</p>
-      <p>Section: B</p>
+      <p>Name: Wenna Marie Angela Delfin</p>
+      <p>Section: D</p>
   </div>
 
     <Link className="More" to="/second_page">
